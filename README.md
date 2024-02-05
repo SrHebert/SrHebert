@@ -3,11 +3,12 @@
 ![snake gif](https://github.com/SrHebert/SrHebert/blob/output/github-contribution-grid-snake.svg)
 
 ### GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrHebert&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrHebert&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SrHebert&locale=pt-br&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" theme=dark src="https://github-readme-stats.vercel.app/api/top-langs?username=SrHebert&layout=compact&langs_count=8&card_width=320&locale=pt-br&theme=dark" />
+</a>
 
 ## Contatos:
 <div>
