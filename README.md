@@ -2,6 +2,8 @@
 ## Meu nome é Ronny e meu nickname é: "SrHebert"! 
 ![snake gif](https://github.com/SrHebert/SrHebert/blob/output/github-contribution-grid-snake.svg)
 
+### GitHub Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrHebert&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrHebert&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
