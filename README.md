@@ -1,6 +1,5 @@
 # 👋 Olá! Bem-vindo ao meu perfil do Github.
 ## Meu nome é Ronny e meu nickname é: "SrHebert"! 
-![snake gif](https://github.com/SrHebert/SrHebert/blob/output/github-contribution-grid-snake.svg)
 
 ### GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
