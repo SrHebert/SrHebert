@@ -1,4 +1,4 @@
-# 👋 Olá! Bem-vindo ao meu perfil do Github.
+# <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" title="Olá" width="40" height="40"/> Olá! Bem-vindo ao meu perfil do Github.
 ## Meu nome é Ronny e meu nickname é: "SrHebert"! 
 
 ### GitHub Stats
