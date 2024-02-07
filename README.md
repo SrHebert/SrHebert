@@ -22,5 +22,5 @@
 
 ### Estou aprendendo
 
-<img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=40 height=40><br><sub>HTML</sub>| <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"><br><sub>JavaScript</sub> |<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" width="40" height="40"><br><sub>CSS</sub>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1200px-HTML5_Badge.svg.png" width=40 height=40><br><sub>HTML</sub>| <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"><br><sub>JavaScript</sub> |<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" title="CSS" width="40" height="40"><br><sub>CSS</sub>
 | :---: | :---: | :---: |
