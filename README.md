@@ -17,19 +17,10 @@
 </div>
 
 ### Ferramentas e Tecnologias
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" title="Git" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="Github" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Virtual Studio Code" width="40" height="40"/>
+[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40 height=40><br><sub>Virtual Studio Code</sub>]() | [<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width=40 height=40><br><sub>Github</sub>]() | [<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=40 height=40><br><sub>Figma</sub>]() | [<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" width=40 height=40><br><sub>Git</sub>]()
+| :---: | :---: | :---: | :---: |
 
 ### Estou aprendendo
-<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" title="HTML" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50"/>
-        
 
-
-_______________________________________________________________________________________________________________________________________________
-                   
-          
-          
-
-                    
+[<img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=40 height=40><br><sub>HTML</sub>]()| [<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"><br><sub>JavaScript</sub>]() |[<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" width="40" height="40"><br><sub>CSS</sub>]()
+| :---: | :---: | :---: |
